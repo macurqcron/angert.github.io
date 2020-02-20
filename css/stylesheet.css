@@ -300,7 +300,7 @@ blurb {
 	overflow: hidden;
 	width: 815px;
 }
-.galleryItem {
+.imageContainer > img:hover{
 	/* [disabled]max-width: 100%; */
 	width: 145px;
 	float: left;
@@ -387,7 +387,4 @@ blurb {
 .linespacing content .content .containerFixed {
 	padding-bottom: 10px;
 }
-.imageContainer > img:hover {
-  width: 500px;
-  height: 200px;
-}
+

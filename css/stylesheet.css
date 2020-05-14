@@ -234,6 +234,7 @@ a:hover    {
 people {
 	width: 30%;
 	float: left;
+	 border:1px solid #021a40;
 }
 blurb {
 	width: 70%;
